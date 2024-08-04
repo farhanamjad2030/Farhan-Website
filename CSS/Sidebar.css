@@ -1,0 +1,76 @@
+@media (max-width: 1300px) {
+  body {
+    padding-left: 100px;
+  }
+
+  .Sidebar {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 55px;
+    width: 76px;
+    background-color: white;
+    z-index:200;
+    padding-top: 4px;
+  }
+  
+  .SL {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+  }
+  
+  .SL:hover {
+    background-color: rgb(236, 236, 236);
+  }
+  
+  .SL img {
+    height: 25px;
+    margin-bottom: 4px;
+  }
+  
+  .SL div {
+    font-size: 11px;
+  }
+}
+
+@media (min-width: 1301px) {
+  .Sidebar {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    top: 49px;
+    width: 200px;
+    background-color: white;
+    z-index:200;
+    padding-top: 17px;
+  }
+
+  .SL {
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+  }
+
+  .SL:hover {
+    background-color: rgb(236, 236, 236);
+  }
+  
+  .SL img {
+    height: 25px;
+    margin-bottom: 4px;
+    margin-left: 25px;
+  }
+  
+  .SL div {
+    font-size: 14px;
+    margin-left: 20px;
+    margin-bottom: 4px;
+  }
+}
