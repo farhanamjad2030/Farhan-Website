@@ -1,0 +1,132 @@
+.T1 {
+  margin-top: 50px;
+  margin-left: 8px;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: medium;
+  padding: 3px 0px 3px 4px;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.T2 {
+  margin-left: 8px;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: medium;
+  padding: 3px 0px 3px 4px;
+  margin-bottom: 100px;
+  display: block;
+}
+
+.P1 {
+  width: 200px;
+  margin-left: 8px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.I1 {
+  display: block;
+  margin-top: 100px;
+  margin-left: 600px;
+  margin-bottom: 10px;
+}
+
+.I2 {
+  font-size: medium;
+  padding: 13px 280px 13px 15px;
+  width: 210px;
+  border-radius: 105px;
+  border-style: none;
+  box-shadow: 0px 0px 5px rgba( 0, 0, 0, 0.2);
+  margin-left: 480px;
+  display: block;
+  margin-bottom: 200px;
+}
+
+.I3 {
+  margin-left: 8px;
+  font-size: medium;
+  padding: 10px 0px 10px 13px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(118, 118, 118, 0.397);
+  width: 125px;
+  margin-bottom: 10px;
+}
+
+.I4 {
+  font-size: medium;
+  padding: 10px 0px 10px 13px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(118, 118, 118, 0.397);
+  width: 125px;
+}
+
+.I5 {
+  margin-left: 8px;
+  font-size: medium;
+  padding: 10px 75px 10px 13px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(118, 118, 118, 0.397);
+  display: block;
+  margin-bottom: 10px;
+}
+
+.I6 {
+  margin-left: 8px;
+  font-size: medium;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(22, 129, 229);
+  padding: 15px 112px 15px 112px;
+  border-style: none;
+  border-radius: 8px;
+  margin-bottom: 150px;
+}
+
+.U1 {
+  font-size: xx-large;
+  font-family: Arial;
+  margin-left: 8px;
+  margin-bottom: 20px;
+}
+
+.U2 {
+  padding: 12px 150px 12px 17px;
+  margin-left: 8px;
+  border-style: none;
+  background-color: rgba(113, 113, 113, 0.089);
+  display: block;
+  margin-bottom: 8px;
+}
+
+.U3 {
+  margin-top: 20px;
+  margin-left: 8px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-style: none;
+  margin-right: 15px;
+}
+
+.U4 {
+  background-color: rgba(113, 113, 113, 0.089);
+  color: black;
+  padding: 10px 20px 10px 20px;
+  border-style: none;
+}
+
+.A1 {
+  margin-top: 100px;
+  color: white;
+}

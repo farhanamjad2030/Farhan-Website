@@ -1,0 +1,130 @@
+.A1 {
+  border-style: solid;
+  border-color: rgba(128, 128, 128, 0.511);
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 5px 10px 6px 10px;
+  width: 250px;
+  margin-bottom: 100px;
+}
+
+.Home {
+  margin-top: 5px;
+}
+
+.B14 {
+  background-color: rgb(54, 112, 228);
+  padding: 3px 10px 3px 10px;
+  border-radius: 12px;
+  border-style: none;
+  color: white;
+}
+
+.Notifications {
+  margin-top: 5px;
+}
+
+.B3 {
+  background-color: rgb(54, 112, 228);
+  padding: 3px 11px 3px 11px;
+  border-radius: 20px;
+  border-style: none;
+  color: white;
+}
+
+.Messages {
+  margin-top: 5px;
+}
+
+.B5 {
+  background-color: rgb(54, 112, 228);
+  padding: 3px 11px 3px 11px;
+  border-radius: 20px;
+  border-style: none;
+  color: white;
+}
+
+.A2 {
+  background-color: rgba(113, 58, 158, 0.862);
+  height: 50px;
+  margin-bottom: 100px;
+}
+
+.Home2 {
+  color: white;
+  margin-left: 15px;
+}
+
+.Search {
+  width: 500px;
+  padding: 6px 5px 6px 10px;
+  border-radius: 16px;
+  border-style: none;
+}
+
+.Download {
+  background-color: rgba(113, 58, 158, 0);
+  color: white;
+  border-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 2px;
+  padding: 7px 15px 7px 15px;
+  margin-right: 7px;
+}
+
+.A3 {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 20px 25px 20px 20px;
+}
+
+.I1 {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  margin-right: 15px;
+}
+
+.II1 {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  margin-right: 15px;
+}
+
+.III1 {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  margin-right: 15px;
+}
+
+.P1 {
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.P2 {
+  color: gray;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.I4 {
+  font-size: medium;
+  font-weight: bold;
+  margin-left: 150px;
+  background-color: rgba(0, 106, 255, 0.663);
+  color: white;
+  border-style: none;
+  padding: 8px 10px 8px 10px;
+  margin-bottom: 0px;
+  border-radius: 5px;
+}

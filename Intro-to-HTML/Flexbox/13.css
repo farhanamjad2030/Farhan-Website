@@ -1,0 +1,128 @@
+.D1 {
+  font-family: Roboto, Arial;
+  display: inline-block;
+  box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.2);
+  padding: 10px 15px 15px 15px;
+  border-radius: 5px;
+  margin: 0px 250px 100px 10px;
+}
+
+.D2 {
+  font-size: medium;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.D3 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.I1 {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.D5 {
+  display: flex;
+}
+
+.D6 {
+  font-weight: bolder;
+  font-size: large;
+  width: 310px;
+  line-height: 25px;
+}
+
+.S1 {
+  display: block;
+  width: 300px;
+  font-size: medium;
+  font-weight: normal;
+}
+
+.D7 {
+  margin-left: 60px;
+  font-size: small;
+  color: gray;
+  margin-top: 4px;
+}
+
+.D8 {
+  color: gray;
+}
+
+.DD1 {
+  margin: 0px 0px 100px 10px;
+  display: flex;
+  font-family: Roboto, Arial;
+}
+
+.II1 {
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+.PP1 {
+  font-size: medium;
+  font-weight: bolder;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+
+.SS1 {
+  color: gray;
+  font-weight: lighter;
+}
+
+.PP2 {
+  margin-top: 5px;
+  width: 350px;
+  line-height: 23px;
+}
+
+.DD6 {
+  display: flex;
+}
+
+.BB1 {
+  background-color: lightgray;
+  border-style: solid;
+  border-color: lightgray;
+  width: 100px;
+  height: 100px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.BB2 {
+  background-color: white;
+  border-style: solid;
+  border-color: lightgray;
+  width: 250px;
+  height: 100px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  margin-left: -1px;
+}
+
+.PP3 {
+  font-size: medium;
+  color: gray;
+  text-align: left;
+  margin-left: 8px;
+  margin-bottom: 8px;
+}
+
+.PP4 {
+  font-size: medium;
+  margin-top: 0px;
+  text-align: left;
+  margin-left: 8px;
+}
